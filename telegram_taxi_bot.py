@@ -29,4 +29,3 @@ def ruyxatlar(message):
 
 bot.polling()
 
-
